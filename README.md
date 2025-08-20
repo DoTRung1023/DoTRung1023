@@ -14,5 +14,8 @@
 ## 📊 GitHub Stats
 ![Trung's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoTRung1023&show_icons=true&theme=radical)
 
+## 📧 Contact
+- Email: nolitrung@gmail.com
+
 ---
 ⭐️ From [DoTRung1023](https://github.com/DoTRung1023)
