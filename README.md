@@ -14,8 +14,5 @@
 ## 📊 GitHub Stats
 ![Trung's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoTRung1023&show_icons=true&theme=radical)
 
-## 📍 Location
-Adelaide, Australia
-
 ---
 ⭐️ From [DoTRung1023](https://github.com/DoTRung1023)
