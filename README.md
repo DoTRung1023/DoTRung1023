@@ -12,7 +12,9 @@
 - **Tools**: Jupyter, Git, VS Code
 
 ## 📊 GitHub Stats
-![Trung's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoTRung1023&show_icons=true&theme=radical)
+![Trung's GitHub stats](https://github-readme-stats-git-main-doctorgupta.vercel.app/api?username=DoTRung1023&show_icons=true&theme=radical)
+
+[View detailed stats](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📧 Contact
 - Email: nolitrung@gmail.com
