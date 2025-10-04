@@ -59,9 +59,9 @@
 <tr>
 <td width="50%">
 
-**🕐 Coding Time Distribution**
+**� Commit Patterns & Activity**
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DoTRung1023&theme=default&hide_border=true&bg_color=ffffff&layout=compact" alt="WakaTime Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DoTRung1023&theme=default&utc_offset=8" alt="Productive Time"/>
 </p>
 
 </td>
