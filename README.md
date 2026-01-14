@@ -1,6 +1,6 @@
 # Hi, I'm Trung! 👋
 
-**Computer Science Student** at the University of Adelaide (2nd year)
+**Computer Science Student** at the University of Adelaide (3rd year)
 
 ## 🎯 Interests
 - Artificial Intelligence
@@ -8,7 +8,7 @@
 - Machine Learning
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, C++, JavaScript, MATLAB
+- **Languages**: Python, C, C++, JavaScript, MATLAB
 - **Tools**: Jupyter, Git, VS Code
 
 ## 📊 GitHub Stats Dashboard
