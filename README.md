@@ -1,4 +1,4 @@
-### Hi, I'm dotrung
+### Hi, I'm DoTRung
 
 Third-year cs student at the university of adelaide, interested in ai, machine learning, and building things for the web.
 Outside of code, I'm into sports, travelling, music, and keeping a duolingo streak alive.
@@ -7,7 +7,7 @@ Outside of code, I'm into sports, travelling, music, and keeping a duolingo stre
 
 ---
 
-check out more on my [portfolio](https://dotrung.vercel.app/)
+Check out more on my [portfolio](https://dotrung.vercel.app/)
 
 ---
 
