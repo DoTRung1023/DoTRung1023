@@ -1,49 +1,23 @@
-# Hi, I'm Trung! 👋
+### hi, i'm trung
 
-**Computer Science Student** at the University of Adelaide (3rd year)
+cs @ university of adelaide &nbsp;·&nbsp; ai &nbsp;·&nbsp; machine learning
 
-## 🎯 Interests
-- Artificial Intelligence
-- Data Science
-- Machine Learning
+`python` &nbsp;`c++` &nbsp;`javascript` &nbsp;`matlab`
 
-## 🛠️ Tech Stack
-- **Languages**: Python, C, C++, JavaScript, MATLAB
-- **Tools**: Jupyter, Git, VS Code
-
-## 📊 GitHub Stats Dashboard
+---
 
 <div align="center">
 
-### 🎯 Coding Habits & Insights
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DoTRung1023&bg_color=ffffff&color=999999&line=cccccc&point=444444&area=true&area_color=f0f0f0&hide_border=true" width="100%"/>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DoTRung1023&theme=default&hide_border=true" alt="Profile Summary"/>
-</p>
+<br/>
 
-<table align="center">
-<tr>
-<td width="50%">
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DoTRung1023&theme=default&hide_border=true" alt="Repos per Language"/>
-</p>
-</td>
-<td width="50%">
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DoTRung1023&theme=default&hide_border=true" alt="Most Commit Language"/>
-</p>
-</td>
-</tr>
-</table>
+<img height="145" src="https://github-readme-stats.vercel.app/api?username=DoTRung1023&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=default&icon_color=888888&text_color=555555&hide_rank=false"/>
+&nbsp;
+<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoTRung1023&hide_border=true&layout=compact&theme=default&text_color=555555&langs_count=5"/>
 
 </div>
-
-
-
-</div>
-
-## 📧 Contact
-- Email: nolimitrung@gmail.com
 
 ---
-⭐️ From [DoTRung1023](https://github.com/DoTRung1023)
+
+[nolimitrung@gmail.com](mailto:nolimitrung@gmail.com)
