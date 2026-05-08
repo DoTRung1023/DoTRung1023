@@ -3,7 +3,7 @@
 Third-year cs student at the University of Adelaide, interested in data science, software engineering, and building things for the web.
 Outside of code, I'm into sports, travelling, music, and keeping a duolingo streak alive.
 
-Check out more on my [portfolio](https://dotrung.vercel.app/)
+Check out more on my [portfolio](https://dotrung.vercel.app/).
 
 `python` &nbsp;`c++` &nbsp; `c` &nbsp; `javascript` &nbsp;`matlab`
 
