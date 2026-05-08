@@ -1,9 +1,13 @@
-### hi, i'm dotrung
+### Hi, I'm dotrung
 
-third-year cs student at the university of adelaide, interested in ai, machine learning, and building things for the web.
-outside of code i'm into sports, travelling, music, and keeping a duolingo streak alive.
+Third-year cs student at the university of adelaide, interested in ai, machine learning, and building things for the web.
+Outside of code, I'm into sports, travelling, music, and keeping a duolingo streak alive.
 
 `python` &nbsp;`c++` &nbsp; `c` &nbsp; `javascript` &nbsp;`matlab`
+
+---
+
+check out more on my [portfolio](https://dotrung.vercel.app/)
 
 ---
 
@@ -18,7 +22,3 @@ outside of code i'm into sports, travelling, music, and keeping a duolingo strea
 <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoTRung1023&hide_border=true&layout=compact&theme=default&text_color=555555&langs_count=5"/>
 
 </div>
-
----
-
-[nolimitrung@gmail.com](mailto:nolimitrung@gmail.com)
