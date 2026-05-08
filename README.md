@@ -1,8 +1,9 @@
-### hi, i'm trung
+### hi, i'm dotrung
 
-cs @ university of adelaide &nbsp;·&nbsp; ai &nbsp;·&nbsp; machine learning
+third-year cs student at the university of adelaide, interested in ai, machine learning, and building things for the web.
+outside of code i'm into sports, travelling, music, and keeping a duolingo streak alive.
 
-`python` &nbsp;`c++` &nbsp;`javascript` &nbsp;`matlab`
+`python` &nbsp;`c++` &nbsp; `c` &nbsp; `javascript` &nbsp;`matlab`
 
 ---
 
