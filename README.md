@@ -11,7 +11,7 @@ Check out more on my [portfolio](https://dotrung.vercel.app/).
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DoTRung1023&bg_color=ffffff&color=999999&line=cccccc&point=444444&area=true&area_color=f0f0f0&hide_border=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/DoTRung1023/DoTRung1023/output/activity-graph.svg" width="100%"/>
 
 <br/>
 
