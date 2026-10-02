@@ -5,7 +5,7 @@ Outside of code, I'm into sports, travelling, music, and keeping a duolingo stre
 
 Check out more on my [portfolio](https://dotrung.vercel.app/).
 
-`python` &nbsp;`c++` &nbsp; `c` &nbsp; `javascript` &nbsp;`typescript` &nbsp;`matlab` 
+`python` &nbsp;`c++` &nbsp; `c` &nbsp; `javascript` &nbsp;`typescript` &nbsp;`matlab` &nbsp;`java` 
 
 ---
 
